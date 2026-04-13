@@ -1,0 +1,4 @@
+name: asset:ice_cream_factory_source_data
+externalId: {{ icapi_ds_external_id }}
+description: This dataset contains the source data for the ice cream factory, including information about ingredients, recipes, and production schedules.
+write-protected: false

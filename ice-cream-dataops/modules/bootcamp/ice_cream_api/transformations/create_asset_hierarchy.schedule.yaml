@@ -1,0 +1,3 @@
+externalId: create_asset_hierarchy_72_test
+interval: "12 12 * * *"
+isPaused: False

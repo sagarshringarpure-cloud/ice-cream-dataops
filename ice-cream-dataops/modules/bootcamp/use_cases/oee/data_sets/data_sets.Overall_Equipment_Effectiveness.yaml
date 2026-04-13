@@ -1,0 +1,4 @@
+name: ds_overall_equipment_effectiveness
+externalId: {{ uc_oee_ds_external_id }}
+description: This dataset contains the calculated Overall Equipment Effectiveness (OEE) metrics for the ice
+write-protected: false
