@@ -79,7 +79,8 @@ def report_ext_pipe(client: CogniteClient, status, message=None):
     ext_pipe_run = ExtractionPipelineRun(
         extpipe_external_id="ep_icapi_datapoints",
         status=status,
-        message=message
+        message=message,
+        id=7037282912962006
     )
 
     client.extraction_pipelines.runs.create(run=ext_pipe_run)
