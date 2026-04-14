@@ -1,8 +1,8 @@
-- name: OEE TimeSeries
-  externalId: oee_timeseries
-  owner: CDF Bootcamp Team
-  description: Function to calculate OEE
+- name: Ice Cream API DataPoints Extractor
+  externalId: icapi_datapoints_extractor
+  owner: Bootcamp Team
+  description: Extracts DataPoints data from the Ice Cream API
   metadata:
-      version: "1.0"
+    version: "1.0"
   runtime: py311
   functionPath: ./handler.py
